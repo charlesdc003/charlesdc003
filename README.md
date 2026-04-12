@@ -46,4 +46,4 @@ Python · FastAPI · Pydantic · PostgreSQL · pgvector · Ollama · Docker · p
 
 ## Contact
 
-[LinkedIn]https://www.linkedin.com/in/charlesdc003/) · charlesdc003@github
+[LinkedIn](https://www.linkedin.com/in/charlesdc003/) · charlesdc003@github
