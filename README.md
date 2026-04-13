@@ -4,7 +4,7 @@ AI Applications Engineer building production-grade AI systems with Python, FastA
 
 Currently seeking remote roles as an **AI Applications Engineer**, **LLM Engineer**, or **AI Automation Engineer**.
 
-Based in New Jersey → relocating to Florida, end of 2026.
+Based in New Jersey → relocating to Florida, end of 2026/early 2027.
 
 ---
 
